@@ -1,0 +1,9 @@
+.bg {
+    background: black;
+}
+
+.welcome { 
+    text-align: center;
+    color: rgb(116, 181, 238);
+    font-family: 'Inconsolata', monospace;
+}
